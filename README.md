@@ -8,13 +8,13 @@
   serge@karalli.net 
 
 ##<font color="#325D72">Education</font>
-**Ph.D. Operations Research**  _(Jan. 2005)_
+**Ph.D. Operations Research**  _(Jan. 2005)_  
 **[Case Western Reserve University]** _(Cleveland, OH)_  
 _Concentration in Operations Management_
-  
-**M.A. Counseling**  _(May 1994)_
-> **[Franciscan University]** _(Steubenville, OH)_  
-  
+
+**M.A. Counseling**  _(May 1994)_  
+**[Franciscan University]** _(Steubenville, OH)_  
+
 **B.S. Electrical Engineering**  _(May 1984)_  
 **B.A. Psychology**  _(May 1984_ )  
 **[Norwich University]** _(Northfield, VT)_  
@@ -26,10 +26,25 @@ _Concentration in Operations Management_
 **Visiting Assistant Professor of Operations Management**  _September 2003 - May 2004_  
 **[DePaul University]** _(Chicago, IL)_  
 
-**Graduate Assistant**  _2000-2003_   
+**Graduate Assistant**  _September 2000 - May 2003_   
 **[Case Western Reserve University]** _(Cleveland, OH)_   
 
 ##Teaching Interests
++ Core Courses in Operations Management
++ Supply Chain Management
++ Production Planning and Inventory Control
++ Goal-Based Scenario/Game Based Learning
++ Quantitative Methods
++ Combinatorial Optimization
++ Graph Theory/Networks
+
+##Research Interests
++ The MFELSP-SS
++ Extensions of the MFELSP-SS to the JRP
++ The family periodic loading problem
++ Generalized Lot Allocation
++ Goal-Based Scenario (GBS) research
++ Effective student preparation for GBS exercises
 
 
 
