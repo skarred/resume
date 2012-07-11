@@ -7,7 +7,7 @@
   H (916) 689-1177  
   serge@karalli.net 
 
-<font color="#325D72">##Education</font>
+##<font color="#325D72">Education</font>
 #### Ph.D. Operations Research ####
 > **[Case Western Reserve University]** _(Cleveland, OH)_  
 > _(Jan. 2005)_  
