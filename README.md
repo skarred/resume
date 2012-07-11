@@ -50,8 +50,75 @@ _Concentration in Operations Management_
 ###[California State University, Sacramento]
 Teaching Ratings: 4.5/5.0 - 4.9/5.0
 
+**On-Line Course**  _September 2008 - May 2112_  
++ Undergraduate Operations Management core course
++ Manage course with WebCT ©
++ On-line communication with iMeet ©
+
+**Undergraduate Operations Management Courses**  _September 2004 - May 2112_  
++ Operations Management Core Course
++ Operations Planning & Inventory Control
++ Operations Strategy & Design
+
+**Graduate Operations Management Courses**  
++ Production & Operations Analysis (MBA)  _September 2005 - May 2112_  
++ Quantitative Methods for Decision Making (EMBA)  _September 2006 - May 2112_  
+
+**Incorporated On-line Business Simulations in Every Course**  
++ The Electronic Beer Game
++ Littlefield Technologies
++ The Startup Game
++ The Supply Chain Game
+
+**International Collegiate Business Simulation Competition**  _January 2005 - May 2008_  
++ Undergraduate Team Adviser  
++ Compete with teams from universities worldwide
+
+**Simulation Games in the Classroom**  _August 2008_  
++ Presenter and panel discussant
++ American Management Association
++ Annual meeting, Anaheim, CA
+
+**Matheson Trucking, Inc**  _January 2008 - May 2009_  
++ Internships for operations management students
++ Coordinated operations management students with internships
++ Internships often led to full-time employment
+
+###[DePaul University]
+**Undergraduate Operations Management Courses**  _August 2003 - May 2004_  
++ Managerial Concepts and Practices II
++ The Management and Measurement of Quality;
++ Purchasing Management
++ Teaching Ratings: 4.5/5.0 - 4.9/5.0
+
+###[Case Western Reserve University]
+**Undergraduate Core Course in Operations Management**  _September 2000 - May 2003_  
++ Responsible for course design, preparation, and instruction
++ Typical class composition:
+++ Weatherhead School of Management students, &
+++ Case School of Engineering students
+
+**Math Camp**  _August 2001, August 2002_  
+A week-long statistics review for MBA students.
+Conducted problem sessions
+
+**Exercises on Proof Techniques**  _January 1999 - June 1999_  
+Solow, D., How to Read and do Proofs: an introduction to mathematical thought process, (3 ed.). New York, NY: John Wiley & Sons, 2002
+Assisted in the revision and development of proof techniques exercises
+
+**Graduate Operations Research Course Development**  _August 1999 - August 2000_  
+Developed a traveling salesman problem application in MS Access using VBA, SQL, & C++
+
+
+
+
 [Case Western Reserve University]: http://www.weatherhead.case.edu/        "Weatherhead School of Management"
 [Franciscan University]: http://www.franciscan.edu/              "Franciscan University"
 [Norwich University]: http://www.norwich.edu/                 "Norwich University"
 [California State University, Sacramento]: http://www.cba.csus.edu/                 "College of Business Administration"
 [DePaul University]: http://www.depaul.edu/academics/undergraduate/majors/Pages/management.aspx
+[The Electronic Beer Game]: http://responsive.net/games.html
+[Littlefield Technologies]: http://responsive.net/games.html
+[The Startup Game]: http://responsive.net/games.html
+[The Supply Chain Game]: http://responsive.net/games.html
+
