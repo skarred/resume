@@ -115,27 +115,27 @@ _August 1999 - August 2000_
 
 ##Research
 ###Publications
-1. S. M. Karalli and A. D. Flowers, "The JRP with Multiple Replenishment Sources and Fill Rates," _California Journal of Operations Management_, vol. 9(2), pp. 1-19, 2011.
-1. S. M. Karalli, "Coordinating Shipments from Multiple Supplier location in a Capacitated Staging Environment," _California Journal of Operations Management_, vol. 9(1), pp. 104-118, 2011.
-1. S. M. Karalli and A. D. Flowers, "The Multiple-Family ELSP with Safety Stocks," _Operations Research_, vol. 54(3), pp. 523-531, 2006.
++ S. M. Karalli and A. D. Flowers, "The JRP with Multiple Replenishment Sources and Fill Rates," _California Journal of Operations Management_, vol. 9(2), pp. 1-19, 201+
++ S. M. Karalli, "Coordinating Shipments from Multiple Supplier location in a Capacitated Staging Environment," _California Journal of Operations Management_, vol. 9(1), pp. 104-118, 201+
++ S. M. Karalli and A. D. Flowers, "The Multiple-Family ELSP with Safety Stocks," _Operations Research_, vol. 54(3), pp. 523-531, 2006.
 
 ###Articles Under Review
-1. S. M. Karalli and A. D. Flowers, "The Family Periodic Loading Problem," _European Journal of Operational Research_, 2011.
-1. S. M. Karalli and A. D. Flowers, "The Multiple-Family ELSP with Fill Rates," _Submitted to Operational Research Letters_, 2011.
++ S. M. Karalli and A. D. Flowers, "The Family Periodic Loading Problem," _European Journal of Operational Research_, 201+
++ S. M. Karalli and A. D. Flowers, "The Multiple-Family ELSP with Fill Rates," _Submitted to Operational Research Letters_, 201+
 
 ###Working Papers
-1. S. M. Karalli and A. D. Flowers, "Scheduling the Multi-Family JRP with a Periodic Loading Algorithm," CSU, Sacramento and Case Western Reserve University, Working Paper , 2010.
++ S. M. Karalli and A. D. Flowers, "Scheduling the Multi-Family JRP with a Periodic Loading Algorithm," CSU, Sacramento and Case Western Reserve University, Working Paper , 2010.
 
 ###Technical Reports
-1. A. D. Flowers and S. M. Karalli, "Setting Safety Stocks and Production Quantities for Product Families," Case Western Reserve University, Technical Report , 2010.
++ A. D. Flowers and S. M. Karalli, "Setting Safety Stocks and Production Quantities for Product Families," Case Western Reserve University, Technical Report , 2010.
 
 ###Presentations
-1. S. M. Karalli, "Coordinating Shipments from Multiple Supplier locations in a Capacitated Staging Environment," in _23rd Annual CSU-POM Conference_, Bakersfield, CA, 2011.
-1. S. M. Karalli and Y. Sun, "Lagrangian lower bounds for the generalized semiconductor lot allocation problem," in _61st Annual IIE Conference and Expo 2011_, Reno, NV, 2011.
-1. S. M. Karalli, "The Family Periodic Loading Problem: When Standard Loading is Infeasible," in _Research Seminar_, Sacramento, CA, 2005.
-1. S. M. Karalli and A. D. Flowers, "The Family Periodic Loading Problem," in _National DSI Conference: San Francisco, California_, San Francisco, CS, 2005.
-1. S. M. Karalli and A. D. Flowers, "The Multi-Family Economic Lot Scheduling Problem with Safety Stocks," in _INFORMS Annual Meeting 2002 San Jose_, San Jose, CA, 2002.
-1. S. M. Karalli and A. D. Flowers, "The Multi-Family Economic Lot Scheduling Problem with Safety Stocks," in _MSOM Conference, Ithaca, June 2002,_ Ithaca, NY, 2002.
++ S. M. Karalli, "Coordinating Shipments from Multiple Supplier locations in a Capacitated Staging Environment," in _23rd Annual CSU-POM Conference_, Bakersfield, CA, 201+
++ S. M. Karalli and Y. Sun, "Lagrangian lower bounds for the generalized semiconductor lot allocation problem," in _61st Annual IIE Conference and Expo 2011_, Reno, NV, 201+
++ S. M. Karalli, "The Family Periodic Loading Problem: When Standard Loading is Infeasible," in _Research Seminar_, Sacramento, CA, 2005.
++ S. M. Karalli and A. D. Flowers, "The Family Periodic Loading Problem," in _National DSI Conference: San Francisco, California_, San Francisco, CS, 2005.
++ S. M. Karalli and A. D. Flowers, "The Multi-Family Economic Lot Scheduling Problem with Safety Stocks," in _INFORMS Annual Meeting 2002 San Jose_, San Jose, CA, 2002.
++ S. M. Karalli and A. D. Flowers, "The Multi-Family Economic Lot Scheduling Problem with Safety Stocks," in _MSOM Conference, Ithaca, June 2002,_ Ithaca, NY, 2002.
 
 ###Ph.D. Thesis
 + S. M. Karalli, "The Multi-Family Economic Lot Scheduling Problem with Safety Stocks," PhD Thesis , Case Western Reserve University, 2004.
