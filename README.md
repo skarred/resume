@@ -95,19 +95,21 @@ Teaching Ratings: 4.5/5.0 - 4.9/5.0
 **Undergraduate Core Course in Operations Management**  _September 2000 - May 2003_  
 + Responsible for course design, preparation, and instruction
 + Typical class composition:
-++ Weatherhead School of Management students, &
-++ Case School of Engineering students
+  + Weatherhead School of Management students, &
+  + Case School of Engineering students
 
 **Math Camp**  _August 2001, August 2002_  
-A week-long statistics review for MBA students.
-Conducted problem sessions
++ A week-long statistics review for MBA students.
++ Conducted problem sessions
 
 **Exercises on Proof Techniques**  _January 1999 - June 1999_  
-Solow, D., How to Read and do Proofs: an introduction to mathematical thought process, (3 ed.). New York, NY: John Wiley & Sons, 2002
-Assisted in the revision and development of proof techniques exercises
++ Solow, D., _How to Read and do Proofs: an introduction to mathematical thought process_, (3 ed.). New York, NY: John Wiley & Sons, 2002
++ Assisted in the revision and development of proof techniques exercises
 
 **Graduate Operations Research Course Development**  _August 1999 - August 2000_  
-Developed a traveling salesman problem application in MS Access using VBA, SQL, & C++
++ Developed a traveling salesman problem application in MS Access using VBA, SQL, & C++
+
+##Research
 
 
 
