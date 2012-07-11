@@ -1,19 +1,15 @@
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
+> _"Example isn’t another way to teach, it is the only way to teach."_ <cite>Albert Einstein</cite>
 
 #Serge Karalli
-8805 Barn Owl CT  
+  8805 Barn Owl CT  
   Elk Grove, CA 95624  
   H (916) 549-5526  
   T (916) 689-1177  
   B serge@karalli.net 
-  
-> _"Example isn’t another way to teach, it is the only way to teach." – Albert Einstein_
 
 ##Education
 #### Ph.D. Operations Research ####
-> **Case Western Reserve University** _(Cleveland, OH)_  
+> **[Case Western Reserve University]** _(Cleveland, OH)_  
 > _(Jan. 2005)_  
 > _Concentration in Operations Management_
   
@@ -46,5 +42,11 @@ Case Western Reserve University
 _Cleveland, OH_  
 
 ##Teaching Interests
+
+
+
+[Case Western Reserve University]: http://www.weatherhead.case.edu/        "Weatherhead School of Management"
+[Franciscan University]: http://www.franciscan.edu/              "Franciscan University"
+[Norwich University]: http://www.norwich.edu/                 "Norwich University"
 
 
