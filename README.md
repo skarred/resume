@@ -1,3 +1,7 @@
+[1]: http://google.com/        "Google"
+[2]: http://search.yahoo.com/  "Yahoo Search"
+[3]: http://search.msn.com/    "MSN Search"
+
 #Serge Karalli
 8805 Barn Owl CT  
   Elk Grove, CA 95624  
