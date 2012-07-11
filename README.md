@@ -8,19 +8,16 @@
 _"Example isn’t another way to teach, it is the only way to teach." – Albert Einstein_
 
 ##Education
-####Case Western Reserve University  
-_(Cleveland, OH)_  
-> **Ph.D. Operations Research**  
-_(Jan. 2005)_  
-> _Concentration in Operations Management_
+> **Case Western Reserve University** _(Cleveland, OH)_  
+>> **Ph.D. Operations Research** _(Jan. 2005)_  
+>> _Concentration in Operations Management_
   
-####Franciscan University  
-_(Steubenville, OH)_  
-> **M.A. Counseling** _(May 1994)_  
+> **Franciscan University** _(Steubenville, OH)_  
+>> **M.A. Counseling** _(May 1994)_  
   
-####Norwich University _(Northfield, VT)_  
-> **B.S. Electrical Engineering** _(May 1984)_  
-> **B.A. Psychology** _(May 1984_ ) 
+> **Norwich University** _(Northfield, VT)_  
+>> **B.S. Electrical Engineering** _(May 1984)_  
+>> **B.A. Psychology** _(May 1984_ ) 
 
 ##Teaching Experience
 **Assistant Professor of Operations Management**  
