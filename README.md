@@ -1,13 +1,13 @@
-> _"Example isn’t another way to teach, it is the only way to teach."_ <cite>Albert Einstein</cite>
+> _"Example isn’t another way to teach, it is the only way to teach. "_ <cite> _Albert Einstein</cite>
 
 #Serge Karalli
   8805 Barn Owl CT  
   Elk Grove, CA 95624  
-  H (916) 549-5526  
-  T (916) 689-1177  
-  B serge@karalli.net 
+  M (916) 549-5526  
+  H (916) 689-1177  
+  serge@karalli.net 
 
-##Education
+<font color="#325D72">##Education</font>
 #### Ph.D. Operations Research ####
 > **[Case Western Reserve University]** _(Cleveland, OH)_  
 > _(Jan. 2005)_  
