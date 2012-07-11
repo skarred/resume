@@ -46,7 +46,9 @@ _Concentration in Operations Management_
 + Goal-Based Scenario (GBS) research
 + Effective student preparation for GBS exercises
 
-
+##Teaching Practice
+###[California State University, Sacramento]
+Teaching Ratings: 4.5/5.0 - 4.9/5.0
 
 [Case Western Reserve University]: http://www.weatherhead.case.edu/        "Weatherhead School of Management"
 [Franciscan University]: http://www.franciscan.edu/              "Franciscan University"
