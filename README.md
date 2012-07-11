@@ -1,8 +1,8 @@
 #Serge Karalli
-> 8805 Barn Owl CT
-> Elk Grove, CA 95624
-> H (916) 549-5526
-> T (916) 689-1177
+> 8805 Barn Owl CT  
+> Elk Grove, CA 95624  
+> H (916) 549-5526  
+> T (916) 689-1177  
 > B serge@karalli.net
  
 _"Example isn’t another way to teach, it is the only way to teach." – Albert Einstein_
