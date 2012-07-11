@@ -92,7 +92,8 @@ Teaching Ratings: 4.5/5.0 - 4.9/5.0
 + Teaching Ratings: 4.5/5.0 - 4.9/5.0
 
 ###[Case Western Reserve University]
-**Undergraduate Core Course in Operations Management**  _September 2000 - May 2003_  
+####Undergraduate Core Course in Operations Management
+_September 2000 - May 2003_  
 + Responsible for course design, preparation, and instruction
 + Typical class composition:
   + Weatherhead School of Management students, &
