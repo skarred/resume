@@ -142,19 +142,18 @@ _August 1999 - August 2000_
 
 ##Professional Practice
 ###Projects
-<dl>
-<dt>**Application of my Doctoral Dissertation** _August-2008_   </dt> _August-2008_
-<dd>**Avery Dennison** _(Cleveland, OH)_  
+**Application of my Doctoral Dissertation** _Aug.-2008_   
+**Avery Dennison** _(Cleveland, OH)_  
 + Application of The MFELSP-SS
-+ Encompasses 1,968 of 8,000 parts</dd>
++ Encompasses 1,968 of 8,000 parts
 
-<dt>**Waiting Lines Analysis** _Mar. 2008_   </dt>
-<dd>**La Superior SuperMercados, Inc.** _(Sacramento, CA)_  
-+ Recommend a checkout line operating policy</dd>
+**Waiting Lines Analysis** _Mar. 2008_   
+**La Superior SuperMercados, Inc.** _(Sacramento, CA)_  
++ Recommend a checkout line operating policy
 
-<dt>**Forecasting Model** _January 2007-May 2009_  </dt>
-<dd>**Matheson Trucking, Inc.** _(Elk Grove, CA)_  
-+ Provided An Exponential Smoothing Forecast Model</dd>
+**Forecasting Model** _January 2007-May 2009_  
+**Matheson Trucking, Inc.** _(Elk Grove, CA)_  
++ Provided An Exponential Smoothing Forecast Model
 
 **Forecasting Model** _September 2006_  
 **Forecasting Classes** _January 2005 - January 2006_  
@@ -166,8 +165,7 @@ _August 1999 - August 2000_
 + Reduced inventory and write-offs
 
 
-###Staubach Logistics Practice Group
-_Cleveland, OH_  
+###Staubach Logistics Practice Group _(Cleveland, OH)_  
 
 **Inventory Analysis** _February 2002 - April 2002_  
 **Famous Supply Inc.** _(Akron, OH)_  
@@ -200,9 +198,7 @@ _Cleveland, OH_
 + Developed VBA modules to automate data collection and transfer
 + Wrote the users manual for the short-term model
 
-###Bureau of Business & Economic Research
-_Morgantown, WV_
-
+###Bureau of Business & Economic Research _(Morgantown, WV)_
 
 **1996 and 1997 West Virginia County Data Profiles (CDPs)** _July 1996 - December 1997_  
 + Developed Lotus 1-2-3 macros to
