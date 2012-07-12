@@ -8,7 +8,7 @@
   serge@karalli.net 
 
 ##<font color="#325D72">Education</font>
-**Ph.D. Operations Research**  _(Jan. 2005)_  
+**Ph.D. Operations Research**  _(January 2005)_  
 **[Case Western Reserve University]** _(Cleveland, OH)_  
 _Concentration in Operations Management_
 
@@ -141,9 +141,106 @@ _August 1999 - August 2000_
 + S. M. Karalli, "The Multi-Family Economic Lot Scheduling Problem with Safety Stocks," PhD Thesis , Case Western Reserve University, 2004.
 
 ##Professional Practice
+###Projects
+**Application of my Doctoral Dissertation** _Aug.-2008_   
+**Avery Dennison** _(Cleveland, OH)_  
++ Application of The MFELSP-SS
++ Encompasses 1,968 of 8,000 parts
+
+**Waiting Lines Analysis** _Mar. 2008_   
+**La Superior SuperMercados, Inc.** _(Sacramento, CA)_  
++ Recommend a checkout line operating policy
+
+**Forecasting Model** _January 2007-May 2009_  
+**Matheson Trucking, Inc.** _(Elk Grove, CA)_  
++ Provided An Exponential Smoothing Forecast Model
+
+**Forecasting Model** _September 2006_  
+**Forecasting Classes** _January 2005 - January 2006_  
+**SMUD** _(Sacramento, CA)_  
+
+**Forecasting Analysis** _Mar. 2004-June 2004_  
+**Lindt & Sprüngli** _(Stratham, NH)_  
++ Improved demand planning and product scheduling
++ Reduced inventory and write-offs
 
 
+###Staubach Logistics Practice Group
+_Cleveland, OH_  
 
+**Inventory Analysis** _February 2002 - April 2002_  
+**Famous Supply Inc.** _(Akron, OH)_  
++ Assign distribution points to thousands of SKUs to improve service
+
+
+**Distribution Network Analysis** _April 2001 - June 2002_  
+**Optimal warehouse location with NETWORK©**  
++ L D Kichler Co., Cleveland, OH
++ General Cable Inc., Cincinnati, OH
++ Lubrizol, Cleveland, OH
+
+###Graduate Assistant and Summer Projects
+
+**Mapping of the outbound distribution system** _Jan. 2001-May 2001_  
+**Parker Hannifin Corporation** _(Mentor, OH)_  
++ Interviewed group presidents and management personnel
++ Participated in the search for logistics benchmark data
++ Analyzed logistics costs and performance measure
+
+**Forecasting and Inventory Management Pilot Study** _July 2000-Jan. 2000_  
+**ATSCO - Air Tool Solutions Company** _(Mentor, OH)_  
++ Performed forecasts for 30 products
++ Provide recommendations for inventory levels
+
+**Long-term workforce-planning model** _September 1998 - December 1999_  
+**ALCOA Forged Products** _(Cleveland, OH)_  
++ Developed a workforce planning model with Excel and Solver
++ Assisted in identifying and obtaining data for the model
++ Developed VBA modules to automate data collection and transfer
++ Wrote the users manual for the short-term model
+
+###Bureau of Business & Economic Research
+_Morgantown, WV_
+
+
+**1996 and 1997 West Virginia County Data Profiles (CDPs)** _July 1996 - December 1997_  
++ Developed Lotus 1-2-3 macros to
++ Processed data for 65 CDPs
++ Prepared data for Freelance Graphics charts
++ Automated the 1997 CDPs with macros
++ The macros reduced the turnaround time by 75%
+
+
+**Economic impact forecasting** _June 1997 - August 1997_  
++ Developed applications for Lotus & Excel to forecast the economic impact of historical preservation construction projects and tourism on major industries in WV counties.
+
+**Economic study of the Potomac Highlands** __June 1997 - August 1997__  
++ Searched for economic and educational data on the Internet and on databases
++ Participated in writing the final report
+
+##Computer Skills
+###Languages
++ C++
++ HTML
++ JavaScript
++ PHP
++ Python
++ VBA
+
+###Packages
++ iMeet
++ MediaWiki
++ MoinMoin
++ WebCT
++ WordPress
+
+###Tools
++ Camtasia
++ L<sup>A</sup>T<sub>E</sub>X
++ Mathematica
++ MSOffice
++ OCTAVE
++ OpenOffice.org
 
 
 
