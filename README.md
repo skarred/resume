@@ -67,7 +67,6 @@ Teaching Ratings: 4.5/5.0 - 4.9/5.0
 **Graduate Operations Management Courses**  
 
 + Production & Operations Analysis (MBA)  _September 2005 - May 2112_  
-
 + Quantitative Methods for Decision Making (EMBA)  _September 2006 - May 2112_  
 
 **Incorporated On-line Business Simulations in Every Course**  
