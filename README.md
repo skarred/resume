@@ -142,10 +142,11 @@ _August 1999 - August 2000_
 
 ##Professional Practice
 ###Projects
-**Application of my Doctoral Dissertation** _Aug.-2008_   
-**Avery Dennison** _(Cleveland, OH)_  
+<dl>
+<dt>**Application of my Doctoral Dissertation** _Aug.-2008_   </dt>
+<dd>**Avery Dennison** _(Cleveland, OH)_  
 + Application of The MFELSP-SS
-+ Encompasses 1,968 of 8,000 parts
++ Encompasses 1,968 of 8,000 parts</dd>
 
 **Waiting Lines Analysis** _Mar. 2008_   
 **La Superior SuperMercados, Inc.** _(Sacramento, CA)_  
