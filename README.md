@@ -198,7 +198,7 @@ _August 1999 - August 2000_
 + Developed VBA modules to automate data collection and transfer
 + Wrote the users manual for the short-term model
 
-###Bureau of Business & Economic Research _(Morgantown, WV)_
+###Bureau of Business & Economic Research <SMALL>_(Morgantown, WV)_</SMALL>
 
 **1996 and 1997 West Virginia County Data Profiles (CDPs)** _July 1996 - December 1997_  
 + Developed Lotus 1-2-3 macros to
