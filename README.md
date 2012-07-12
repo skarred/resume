@@ -79,7 +79,6 @@ Teaching Ratings: 4.5/5.0 - 4.9/5.0
 **International Collegiate Business Simulation Competition**  _January 2005 - May 2008_  
 
 + Undergraduate Team Adviser  
-
 + Compete with teams from universities worldwide
 
 **Simulation Games in the Classroom**  _August 2008_  
