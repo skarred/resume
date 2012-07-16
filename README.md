@@ -9,25 +9,32 @@ M (916) 549-5526 <b>&middot;</b> H (916) 689-1177<br />
 </div>
 
 ##<font color="#325D72">Education</font>
-**Ph.D. Operations Research**  _(January 2005)_  
+**Ph.D. Operations Research**  
+_January 2005_  
 **[Case Western Reserve University]** _(Cleveland, OH)_  
 _Concentration in Operations Management_
 
-**M.A. Counseling**  _(May 1994)_  
+**M.A. Counseling**  
+_May 1994_  
 **[Franciscan University]** _(Steubenville, OH)_  
 
-**B.S. Electrical Engineering**  _(May 1984)_  
-**B.A. Psychology**  _(May 1984_ )  
+**B.S. Electrical Engineering**  
+_May 1984_  
+**B.A. Psychology**  
+_May 1984_   
 **[Norwich University]** _(Northfield, VT)_  
 
 ##Teaching Experience
-**Assistant Professor of Operations Management**  _September 2004 - May 2112_  
+**Assistant Professor of Operations Management**  
+_September 2004 - May 2112_  
 **[California State University, Sacramento]**  _(Sacramento, CA)_  
 
-**Visiting Assistant Professor of Operations Management**  _September 2003 - May 2004_  
+**Visiting Assistant Professor of Operations Management**  
+_September 2003 - May 2004_  
 **[DePaul University]** _(Chicago, IL)_  
 
-**Graduate Assistant**  _September 2000 - May 2003_   
+**Graduate Assistant**  
+_September 2000 - May 2003_   
 **[Case Western Reserve University]** _(Cleveland, OH)_   
 
 ##Teaching Interests
@@ -49,51 +56,59 @@ _Concentration in Operations Management_
 
 ##Teaching Practice
 ###[California State University, Sacramento]
-Teaching Ratings: 4.5/5.0 - 4.9/5.0
+**Teaching Ratings**  
+4.5/5.0 - 4.9/5.0  
 
-**On-Line Course**  _September 2008 - May 2112_  
+**On-Line Course**  
+_September 2008 - May 2112_  
 
 + Undergraduate Operations Management core course
 + Manage course with WebCT ©
 + On-line communication with iMeet ©
 
-**Undergraduate Operations Management Courses**  _September 2004 - May 2112_  
+**Undergraduate Operations Management Courses**  
+_September 2004 - May 2112_  
 
 + Operations Management Core Course
 + Operations Planning & Inventory Control
 + Operations Strategy & Design
 
 **Graduate Operations Management Courses**  
+_September 2005 - May 2112_  
 
-+ Production & Operations Analysis (MBA)  _September 2005 - May 2112_  
-+ Quantitative Methods for Decision Making (EMBA)  _September 2006 - May 2112_  
++ Production & Operations Analysis (MBA)   
++ Quantitative Methods for Decision Making (EMBA)  
 
 **Incorporated On-line Business Simulations in Every Course**  
 
-+ The Electronic Beer Game
-+ Littlefield Technologies
-+ The Startup Game
-+ The Supply Chain Game
++ [The Electronic Beer Game]
++ [Littlefield Technologies]
++ [The Startup Game]
++ [The Supply Chain Game]
 
-**International Collegiate Business Simulation Competition**  _January 2005 - May 2008_  
+**International Collegiate Business Simulation Competition**  
+_January 2005 - May 2008_  
 
 + Undergraduate Team Adviser  
 + Compete with teams from universities worldwide
 
-**Simulation Games in the Classroom**  _August 2008_  
+**Simulation Games in the Classroom**  
+_August 2008_  
 
 + Presenter and panel discussant
 + American Management Association
 + Annual meeting, Anaheim, CA
 
-**Matheson Trucking, Inc**  _January 2008 - May 2009_  
+**Matheson Trucking, Inc**  
+_January 2008 - May 2009_  
 
 + Internships for operations management students
 + Coordinated operations management students with internships
 + Internships often led to full-time employment
 
 ###[DePaul University]
-**Undergraduate Operations Management Courses**  _August 2003 - May 2004_  
+**Undergraduate Operations Management Courses**  
+_August 2003 - May 2004_  
 
 + Managerial Concepts and Practices II
 + The Management and Measurement of Quality;
@@ -101,7 +116,7 @@ Teaching Ratings: 4.5/5.0 - 4.9/5.0
 + Teaching Ratings: 4.5/5.0 - 4.9/5.0
 
 ###[Case Western Reserve University]
-####Undergraduate Core Course in Operations Management
+**Undergraduate Core Course in Operations Management**  
 _September 2000 - May 2003_  
 
 + Responsible for course design, preparation, and instruction
@@ -109,19 +124,19 @@ _September 2000 - May 2003_
   + Weatherhead School of Management students, &
   + Case School of Engineering students
 
-####Math Camp
+**Math Camp**  
 _August 2001, August 2002_  
 
 + A week-long statistics review for MBA students.
 + Conducted problem sessions
 
-####Exercises on Proof Techniques
+**Exercises on Proof Techniques**  
 _January 1999 - June 1999_  
 
 + Solow, D., _How to Read and do Proofs: an introduction to mathematical thought process_, (3 ed.). New York, NY: John Wiley & Sons, 2002
 + Assisted in the revision and development of proof techniques exercises
 
-####Graduate Operations Research Course Development
+**Graduate Operations Research Course Development**  
 _August 1999 - August 2000_  
 
 + Developed a traveling salesman problem application in MS Access using VBA, SQL, & C++
@@ -159,27 +174,33 @@ _August 1999 - August 2000_
 
 ##Professional Practice
 ###Projects
-**Application of my Doctoral Dissertation** _Aug.-2008_   
+**Application of my Doctoral Dissertation** 
+_Aug.-2008_   
 **Avery Dennison** _(Cleveland, OH)_
 
 + Application of The MFELSP-SS
 + Encompasses 1,968 of 8,000 parts
 
-**Waiting Lines Analysis** _Mar. 2008_   
+**Waiting Lines Analysis** 
+_Mar. 2008_   
 **La Superior SuperMercados, Inc.** _(Sacramento, CA)_  
 
 + Recommend a checkout line operating policy
 
-**Forecasting Model** _January 2007-May 2009_  
+**Forecasting Model** 
+_January 2007-May 2009_  
 **Matheson Trucking, Inc.** _(Elk Grove, CA)_  
 
 + Provided An Exponential Smoothing Forecast Model
 
-**Forecasting Model** _September 2006_  
-**Forecasting Classes** _January 2005 - January 2006_  
+**Forecasting Model**  
+_September 2006_  
+**Forecasting Classes**  
+_January 2005 - January 2006_  
 **SMUD** _(Sacramento, CA)_  
 
-**Forecasting Analysis** _Mar. 2004-June 2004_  
+**Forecasting Analysis**  
+_Mar. 2004-June 2004_  
 **Lindt & Sprüngli** _(Stratham, NH)_  
 
 + Improved demand planning and product scheduling
@@ -188,13 +209,15 @@ _August 1999 - August 2000_
 
 ###Staubach Logistics Practice Group _(Cleveland, OH)_  
 
-**Inventory Analysis** _February 2002 - April 2002_  
+**Inventory Analysis**  
+_February 2002 - April 2002_  
 **Famous Supply Inc.** _(Akron, OH)_  
 
 + Assign distribution points to thousands of SKUs to improve service
 
 
-**Distribution Network Analysis** _April 2001 - June 2002_  
+**Distribution Network Analysis**  
+_April 2001 - June 2002_  
 **Optimal warehouse location with NETWORK©**  
 
 + L D Kichler Co., Cleveland, OH
@@ -203,20 +226,23 @@ _August 1999 - August 2000_
 
 ###Graduate Assistant and Summer Projects
 
-**Mapping of the outbound distribution system** _Jan. 2001-May 2001_  
+**Mapping of the outbound distribution system**  
+_Jan. 2001-May 2001_  
 **Parker Hannifin Corporation** _(Mentor, OH)_  
 
 + Interviewed group presidents and management personnel
 + Participated in the search for logistics benchmark data
 + Analyzed logistics costs and performance measure
 
-**Forecasting and Inventory Management Pilot Study** _July 2000-Jan. 2000_  
+**Forecasting and Inventory Management Pilot Study**  
+_July 2000-Jan. 2000_  
 **ATSCO - Air Tool Solutions Company** _(Mentor, OH)_  
 
 + Performed forecasts for 30 products
 + Provide recommendations for inventory levels
 
-**Long-term workforce-planning model** _September 1998 - December 1999_  
+**Long-term workforce-planning model**  
+_September 1998 - December 1999_  
 **ALCOA Forged Products** _(Cleveland, OH)_  
 
 + Developed a workforce planning model with Excel and Solver
@@ -226,7 +252,8 @@ _August 1999 - August 2000_
 
 ###Bureau of Business & Economic Research <SMALL>_(Morgantown, WV)_</SMALL>
 
-**1996 and 1997 West Virginia County Data Profiles (CDPs)** _July 1996 - December 1997_  
+**1996 and 1997 West Virginia County Data Profiles (CDPs)**  
+_July 1996 - December 1997_  
 
 + Developed Lotus 1-2-3 macros to
 + Processed data for 65 CDPs
@@ -235,11 +262,13 @@ _August 1999 - August 2000_
 + The macros reduced the turnaround time by 75%
 
 
-**Economic impact forecasting** _June 1997 - August 1997_  
+**Economic impact forecasting**  
+_June 1997 - August 1997_  
 
 + Developed applications for Lotus & Excel to forecast the economic impact of historical preservation construction projects and tourism on major industries in WV counties.
 
-**Economic study of the Potomac Highlands** __June 1997 - August 1997__  
+**Economic study of the Potomac Highlands**  
+_June 1997 - August 1997_  
 
 + Searched for economic and educational data on the Internet and on databases
 + Participated in writing the final report
@@ -297,7 +326,10 @@ Los Angeles, CA 90023
 
 
 
-
+[The Electronic Beer Game]: http://responsive.net/games.html
+[Littlefield Technologies]: http://responsive.net/games.html
+[The Startup Game]: http://responsive.net/games.html
+[The Supply Chain Game]: http://responsive.net/games.html
 [Case Western Reserve University]: http://www.weatherhead.case.edu/        "Weatherhead School of Management"
 [Franciscan University]: http://www.franciscan.edu/              "Franciscan University"
 [Norwich University]: http://www.norwich.edu/                 "Norwich University"
