@@ -266,8 +266,8 @@ _August 1999 - August 2000_
 + OpenOffice.org
 
 ###References
-*A Dale Flowers, D.B.A.*  
-**Associate Professor, Operations**  
+**A Dale Flowers, D.B.A.**  
+*Associate Professor, Operations*  
 Department of Operations  
 Weatherhead School of Management  
 Case Western Reserve University  
@@ -275,16 +275,16 @@ Cleveland, OH 44106
 dale.ﬂowers@case.edu  
 (216) 368-3825  
 
-*Richard Guarino, Ph.D.*  
-**Professor Emeritus,**  
-**Former Associate Dean in Charge**  
+**Richard Guarino, Ph.D.**  
+*Professor Emeritus,*  
+*Former Associate Dean in Charge*  
 College of Business Administration at CSUS  
 37007 Russell Blvd.  
 Davis, CA 95616  
 (916) 756-4397  
 
-*Angela McNerney*  
-**General Manager, Los Angeles**  
+**Angela McNerney**  
+*General Manager, Los Angeles*  
 Preferred Meal Systems, Inc.  
 Los Angeles, CA 90023  
 (310) 602-9316  
