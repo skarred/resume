@@ -131,6 +131,7 @@ _August 1999 - August 2000_
 ###Reviewer
 + _Applied Mathematics and Computation._ 2011.
 + _California Journal of Operations Management._ 2011.
+
 ###Publications
 + S. M. Karalli and A. D. Flowers, "The JRP with Multiple Replenishment Sources and Fill Rates," _California Journal of Operations Management_, vol. 9(2), pp. 1-19, 201+
 + S. M. Karalli, "Coordinating Shipments from Multiple Supplier location in a Capacitated Staging Environment," _California Journal of Operations Management_, vol. 9(1), pp. 104-118, 201+
