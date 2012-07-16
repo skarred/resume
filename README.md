@@ -208,7 +208,8 @@ _Mar. 2004-June 2004_
 + Reduced inventory and write-offs
 
 
-###Staubach Logistics Practice Group _(Cleveland, OH)_  
+###Staubach Logistics Practice Group 
+_(Cleveland, OH)_  
 
 **Inventory Analysis**  
 _February 2002 - April 2002_  
@@ -251,7 +252,8 @@ _September 1998 - December 1999_
 + Developed VBA modules to automate data collection and transfer
 + Wrote the users manual for the short-term model
 
-###Bureau of Business & Economic Research <SMALL>_(Morgantown, WV)_</SMALL>
+###Bureau of Business & Economic Research 
+_(Morgantown, WV)_
 
 **1996 and 1997 West Virginia County Data Profiles (CDPs)**  
 _July 1996 - December 1997_  
