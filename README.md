@@ -1,14 +1,15 @@
-<div class="center">
-8805 Barn Owl CT <b>&middot;</b> Elk Grove, CA 95624<br />
-M (916) 549-5526 <b>&middot;</b> H (916) 689-1177<br /> 
-[karalli.net] <b>&middot;</b> serge@karalli.net  
- <br /> <br />
-<blockquote>
-"Example isn’t another way to teach, it is the only way to teach. " <cite> - Albert Einstein</cite>
-</blockquote>
-</div>
+# Serge M. Karalli, Ph.D.
+***
 
-##<font color="#325D72">Education</font>
+8805 Barn Owl CT  
+Elk Grove, CA 95624  
+M (916) 549-5526  H (916) 689-1177  
+[karalli.net]  
+serge@karalli.net  
+
+> "Example isn’t another way to teach, it is the only way to teach. " <cite> - Albert Einstein</cite>
+ 
+##Education
 **Ph.D. Operations Research**  
 _January 2005_  
 **[Case Western Reserve University]** _(Cleveland, OH)_  
