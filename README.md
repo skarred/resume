@@ -1,5 +1,3 @@
-<h1>Serge Karalli</h1>
-***
 <div class="center">
 8805 Barn Owl CT <b>&middot;</b> Elk Grove, CA 95624<br />
 M (916) 549-5526 <b>&middot;</b> H (916) 689-1177<br /> 
