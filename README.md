@@ -3,7 +3,8 @@
 
 8805 Barn Owl CT  
 Elk Grove, CA 95624  
-M (916) 549-5526  H (916) 689-1177  
+M (916) 549-5526  
+H (916) 689-1177  
 [karalli.net]  
 serge@karalli.net  
 
@@ -328,15 +329,15 @@ Los Angeles, CA 90023
 
 
 
-
+[karalli.net]:  http://karalli.net "The Karalli Pages"
 [The Electronic Beer Game]: http://responsive.net/games.html
 [Littlefield Technologies]: http://responsive.net/games.html
 [The Startup Game]: http://responsive.net/games.html
 [The Supply Chain Game]: http://responsive.net/games.html
-[Case Western Reserve University]: http://www.weatherhead.case.edu/        "Weatherhead School of Management"
-[Franciscan University]: http://www.franciscan.edu/              "Franciscan University"
-[Norwich University]: http://www.norwich.edu/                 "Norwich University"
-[California State University, Sacramento]: http://www.cba.csus.edu/                 "College of Business Administration"
+[Case Western Reserve University]: http://www.weatherhead.case.edu/  "Weatherhead School of Management"
+[Franciscan University]: http://www.franciscan.edu/  "Franciscan University"
+[Norwich University]: http://www.norwich.edu/ "Norwich University"
+[California State University, Sacramento]: http://www.cba.csus.edu/  "College of Business Administration"
 [DePaul University]: http://www.depaul.edu/academics/undergraduate/majors/Pages/management.aspx
 [The Electronic Beer Game]: http://responsive.net/games.html
 [Littlefield Technologies]: http://responsive.net/games.html
