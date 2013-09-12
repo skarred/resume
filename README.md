@@ -1,4 +1,5 @@
 # Serge M. Karalli, Ph.D.
+*"Example isn’t another way to teach, it is the only way to teach." - Albert Einstein* 
 ***
 
 8127 Kinsbridge Drive
@@ -8,8 +9,7 @@ H (916) 689-1177
 [karalli.net](http://karalli.net)  
 [serge@karalli.net](mailto:serge@karalli.net)  
 
-> "Example isn’t another way to teach, it is the only way to teach. " <cite> - Albert Einstein</cite>
- 
+
 ##Education
 **Ph.D. Operations Research**  
 _January 2005_  
