@@ -1,12 +1,12 @@
 # Serge M. Karalli, Ph.D.
 ***
 
-8805 Barn Owl CT  
-Elk Grove, CA 95624  
+8127 Kinsbridge Drive
+Sacramento, CA 95826  
 M (916) 549-5526  
 H (916) 689-1177  
-[karalli.net]  
-serge@karalli.net  
+[karalli.net](http://karalli.net)  
+[serge@karalli.net](mailto:serge@karalli.net)  
 
 > "Example isn’t another way to teach, it is the only way to teach. " <cite> - Albert Einstein</cite>
  
