@@ -1,22 +1,22 @@
+Serge M. Karalli, Ph.D.  
+*"Example isn’t another way to teach, it is the only way to teach." - Albert Einstein*  
+***
+
 8127 Kinsbridge Drive, Sacramento, CA 95826  
 M (916) 549-5526 **&middot;** H (916) 689-1177 **&middot;** [serge@karalli.net](mailto:serge@karalli.net) **&middot;** [www.karalli.net](http://www.karalli.net)  
 ***
 
 
 ##Education
-**Ph.D. Operations Research**  
-_January 2005_  
+**Ph.D. Operations Research**, _January 2005_  
 **[Case Western Reserve University]** _(Cleveland, OH)_  
 _Concentration in Operations Management_
 
-**M.A. Counseling**  
-_May 1994_  
+**M.A. Counseling**, _May 1994_  
 **[Franciscan University]** _(Steubenville, OH)_  
 
-**B.S. Electrical Engineering**  
-_May 1984_  
-**B.A. Psychology**  
-_May 1984_   
+**B.S. Electrical Engineering**, _May 1984_  
+**B.A. Psychology**, _May 1984_   
 **[Norwich University]** _(Northfield, VT)_  
 
 ##Teaching Experience
