@@ -1,13 +1,6 @@
-# Serge M. Karalli, Ph.D.
-*"Example isn’t another way to teach, it is the only way to teach." - Albert Einstein* 
+8127 Kinsbridge Drive, Sacramento, CA 95826  
+M (916) 549-5526 **&middot;** H (916) 689-1177 **&middot;** [serge@karalli.net](mailto:serge@karalli.net) **&middot;** [www.karalli.net](http://www.karalli.net)  
 ***
-
-8127 Kinsbridge Drive
-Sacramento, CA 95826  
-M (916) 549-5526  
-H (916) 689-1177  
-[karalli.net](http://karalli.net)  
-[serge@karalli.net](mailto:serge@karalli.net)  
 
 
 ##Education
