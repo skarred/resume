@@ -468,7 +468,7 @@ stackedit glyphicons https://github.com/benweet/stackedit
 .glyphicons-briefcase{background-position:-432px -144px}
 .glyphicons-fullscreen{background-position:-456px -144px}
 .glyphicons-gdrive-realtime{background-position:-1px -168px}  
-[class^="icon-"],[class*=" icon-"]{display:inline-block;line-height:14px;vertical-align:middle;background-repeat:no-repeat}
+[class^="icon-"],[class*=" icon-"]{font-family:"fontello";font-style:normal;font-weight:normal;display:inline-block;line-height:14px;vertical-align:middle;background-repeat:no-repeat}
 [class^="icon-"].icon-white,[class*=" icon-"].icon-white{color:#fff}
 .icon-code{font-size:80%;padding-right:5px}
 .icon-folder-open{font-size:80%;padding-right:5px}
@@ -954,7 +954,7 @@ i.glyphicons-filter{background-position:-408px -144px}
 i.glyphicons-briefcase{background-position:-432px -144px}
 i.glyphicons-fullscreen{background-position:-456px -144px}
 i.glyphicons-gdrive-realtime{background-position:-1px -168px}
-[class^="icon-"],[class*=" icon-"]{display:inline-block;line-height:14px;vertical-align:middle;background-repeat:no-repeat}
+[class^="icon-"]i,[class*=" icon-"]i{font-family:"fontello";font-style:normal;font-weight:normal;display:inline-block;line-height:14px;vertical-align:middle;background-repeat:no-repeat}
 [class^="icon-"]i.icon-white,[class*=" icon-"]i.icon-white{color:#fff}
 i.icon-code{font-size:80%;padding-right:5px}
 i.icon-folder-open{font-size:80%;padding-right:5px}
