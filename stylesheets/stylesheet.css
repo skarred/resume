@@ -428,7 +428,8 @@ Small Device Styles
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
 ***********************************************************/
-@font-face{font-family:'fontello';src:url('http://karalli.net/font/fontello.eot');src:url('http://karalli.net/font/fontello.eot#iefix') format('embedded-opentype'),url('http://karalli.net/font/fontello.woff') format('woff'),url('http://karalli.net/font/fontello.ttf') format('truetype'),url('http://karalli.net/font/fontello.svg#fontello') format('svg');font-weight:normal;font-style:normal}[class^="icon-"]:before,[class*=" icon-"]:before{font-family:"fontello";font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em;}
+@font-face{font-family:'fontello';src:url('http://karalli.net/font/fontello.eot');src:url('http://karalli.net/font/fontello.eot#iefix') format('embedded-opentype'),url('http://karalli.net/font/fontello.woff') format('woff'),url('http://karalli.net/font/fontello.ttf') format('truetype'),url('http://karalli.net/font/fontello.svg#fontello') format('svg');font-weight:normal;font-style:normal}
+[class^="icon-"]:before,[class*=" icon-"]:before{font-family:"fontello";font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em;}
 .icon-ajust:before{content:'\e8cd'}
 .icon-adjust:before{content:'\e8cd'}
 .icon-align-center:before{content:'\e95e'}
@@ -895,6 +896,7 @@ stackedit glyphicons https://github.com/benweet/stackedit
 .glyphicons-briefcase{background-position:-432px -144px}
 .glyphicons-fullscreen{background-position:-456px -144px}
 .glyphicons-gdrive-realtime{background-position:-1px -168px}  
+
 [class^="icon-"],[class*=" icon-"]{font-family:"fontello";font-style:normal;font-weight:normal;display:inline-block;line-height:14px;vertical-align:middle;background-repeat:no-repeat}
 [class^="icon-"].icon-white,[class*=" icon-"].icon-white{color:#fff}
 .icon-code{font-size:80%;padding-right:5px}
@@ -1381,8 +1383,8 @@ i.glyphicons-filter{background-position:-408px -144px}
 i.glyphicons-briefcase{background-position:-432px -144px}
 i.glyphicons-fullscreen{background-position:-456px -144px}
 i.glyphicons-gdrive-realtime{background-position:-1px -168px}
-[class^="icon-"],[class*=" icon-"]{font-family:"fontello";font-style:normal;font-weight:normal;display:inline-block;line-height:14px;vertical-align:middle;background-repeat:no-repeat}
-[class^="icon-"]i.icon-white,[class*=" icon-"]i.icon-white{font-family:"fontello";font-style:normal;font-weight:normal;color:#fff}
+i[class^="icon-"],i[class*=" icon-"]{font-family:"fontello";font-style:normal;font-weight:normal;display:inline-block;line-height:14px;vertical-align:middle;background-repeat:no-repeat}
+i[class^="icon-"]i.icon-white,i[class*=" icon-"]i.icon-white{font-family:"fontello";font-style:normal;font-weight:normal;color:#fff}
 i.icon-code{font-size:80%;padding-right:5px}
 i.icon-folder-open{font-size:80%;padding-right:5px}
 i.icon-chart-bar{font-size:90%;padding-right:2px}
