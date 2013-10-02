@@ -430,8 +430,8 @@ Small Device Styles
 
 @font-face {
 	font-family:'fontello';
-	src:url('../font/fontello.eot');
-	src:url('../font/fontello.eot#iefix') format('embedded-opentype'), url('../font/fontello.woff') format('woff'), url('../font/fontello.ttf') format('truetype'), url('../font/fontello.svg#fontello') format('svg');
+	src:url('http://karalli.net/font/fontello.eot');
+	src:url('http://karalli.net/font/fontello.eot#iefix') format('embedded-opentype'), url('http://karalli.net/font/fontello.woff') format('woff'), url('http://karalli.net/font/fontello.ttf') format('truetype'), url('http://karalli.net/font/fontello.svg#fontello') format('svg');
 	font-weight:normal;
 	font-style:normal
 }
@@ -1409,8 +1409,8 @@ Small Device Styles
 }
 @font-face {
 	font-family:'Glyphicons Halflings';
-	src:url('../fonts/glyphicons-halflings-regular.eot');
-	src:url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')
+	src:url('http://karalli.net/font/glyphicons-halflings-regular.eot');
+	src:url('http://karalli.net/font/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('http://karalli.net/font/glyphicons-halflings-regular.woff') format('woff'), url('http://karalli.net/font/glyphicons-halflings-regular.ttf') format('truetype'), url('http://karalli.net/font/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')
 }
 .glyphicon {
 	position:relative;
@@ -2031,7 +2031,7 @@ Small Device Styles
 	*margin-right:.3em;
 	line-height:14px;
 	vertical-align:text-top;
-	background-image:url("../img/glyphicons-halflings.png");
+	background-image:url("http://karalli.net/img/glyphicons-halflings.png");
 	background-position:14px 14px;
 	background-repeat:no-repeat
 }
@@ -2043,7 +2043,7 @@ Small Device Styles
 	*margin-right:.3em;
 	line-height:14px;
 	vertical-align:text-top;
-	background-image:url("../img/glyphicons-halflings.png");
+	background-image:url("http://karalli.net/img/glyphicons-halflings.png");
 	background-position:14px 14px;
 	background-repeat:no-repeat;
 	width:18px;
@@ -2524,20 +2524,20 @@ Small Device Styles
 	padding-right:5px
 }
 [class^="icon-provider-"], [class*=" icon-provider-"] {
-	background-image:url("../img/icons.png");
+	background-image:url("http://karalli.net/img/icons.png");
 	width:18px;
 	height:16px;
 	margin-top:-2px
 }
 @media only screen and(-webkit-min-device-pixel-ratio:2), only screen and(min--moz-device-pixel-ratio:2), only screen and(-o-min-device-pixel-ratio:2/1), only screen and(min-device-pixel-ratio:2), only screen and(min-resolution:192dpi), only screen and(min-resolution:2dppx) {
 	[class^="icon-provider-"], [class*=" icon-provider-"] {
-		background-image:url("../img/icons2x.png");
+		background-image:url("http://karalli.net/img/icons2x.png");
 		background-size:256px 16px
 	}
 }
 @media only screen and(-webkit-min-device-pixel-ratio:2), only screen and(min--moz-device-pixel-ratio:2), only screen and(-o-min-device-pixel-ratio:2/1), only screen and(min-device-pixel-ratio:2), only screen and(min-resolution:192dpi), only screen and(min-resolution:2dppx) {
 	[class^="icon-provider-"], [class*=" icon-provider-"] {
-		background-image:url("../img/icons2x.png");
+		background-image:url("http://karalli.net/img/icons2x.png");
 		background-size:256px 16px
 	}
 }
