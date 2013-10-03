@@ -3,9 +3,8 @@ Serge M. Karalli, Ph.D.
 ***
 
 <i class="icon-home"></i> 8127 Kinsbridge Drive, Sacramento, CA 95826  
-<i class="icon-mobile"></i> M (916) 549-5526 **&middot;** <i class="icon-phone"></i> H (916) 689-1177 **&middot;** <i class="icon-mail-alt"></i>  [serge@karalli.net](mailto:serge@karalli.net) **&middot;** <i class="icon-globe"></i> [www.karalli.net](http://www.karalli.net)  
+<i class="icon-mobile"></i> M (916) 549-5526 <i class="icon-phone"></i> H (916) 689-1177 <i class="icon-mail-alt"></i>  [serge@karalli.net](mailto:serge@karalli.net) <i class="icon-globe"></i> [www.karalli.net](http://www.karalli.net)  
 ***
-
 
 ##Education
 **Ph.D. Operations Research**, _January 2005_  
@@ -61,15 +60,13 @@ _September 2008 - May 2112_
 + Manage course with WebCT ©
 + On-line communication with iMeet ©
 
-**Undergraduate Operations Management Courses**  
-_September 2004 - May 2112_  
+**Undergraduate Courses** _September 2004 - May 2112_  
 
 + Operations Management Core Course
 + Operations Planning & Inventory Control
 + Operations Strategy & Design
 
-**Graduate Operations Management Courses**  
-_September 2005 - May 2112_  
+**Graduate Courses** _September 2005 - May 2112_  
 
 + Production & Operations Analysis (MBA)   
 + Quantitative Methods for Decision Making (EMBA)  
@@ -87,23 +84,20 @@ _January 2005 - May 2008_
 + Undergraduate Team Adviser  
 + Compete with teams from universities worldwide
 
-**Simulation Games in the Classroom**  
-_August 2008_  
+**Simulation Games in the Classroom** _August 2008_  
 
 + Presenter and panel discussant
 + American Management Association
 + Annual meeting, Anaheim, CA
 
-**Matheson Trucking, Inc**  
-_January 2008 - May 2009_  
+**Matheson Trucking, Inc** _January 2008 - May 2009_  
 
 + Internships for operations management students
 + Coordinated operations management students with internships
 + Internships often led to full-time employment
 
 ###[DePaul University]
-**Undergraduate Operations Management Courses**  
-_August 2003 - May 2004_  
+**Undergraduate Courses** _August 2003 - May 2004_  
 
 + Managerial Concepts and Practices II
 + The Management and Measurement of Quality;
@@ -119,14 +113,12 @@ _September 2000 - May 2003_
   + Weatherhead School of Management students, &
   + Case School of Engineering students
 
-**Math Camp**  
-_August 2001, August 2002_  
+**Math Camp** _August 2001, August 2002_  
 
 + A week-long statistics review for MBA students.
 + Conducted problem sessions
 
-**Exercises on Proof Techniques**  
-_January 1999 - June 1999_  
+**Exercises on Proof Techniques** _January 1999 - June 1999_  
 
 + Solow, D., _How to Read and do Proofs: an introduction to mathematical thought process_, (3 ed.). New York, NY: John Wiley & Sons, 2002
 + Assisted in the revision and development of proof techniques exercises
@@ -169,33 +161,27 @@ _August 1999 - August 2000_
 
 ##Professional Practice
 ###Projects
-**Application of my Doctoral Dissertation** 
-_Aug.-2008_   
+**Application of my Doctoral Dissertation** _Aug.-2008_   
 **Avery Dennison** _(Cleveland, OH)_
 
 + Application of The MFELSP-SS
 + Encompasses 1,968 of 8,000 parts
 
-**Waiting Lines Analysis** 
-_Mar. 2008_   
+**Waiting Lines Analysis** _Mar. 2008_   
 **La Superior SuperMercados, Inc.** _(Sacramento, CA)_  
 
 + Recommend a checkout line operating policy
 
-**Forecasting Model** 
-_January 2007-May 2009_  
+**Forecasting Model** _January 2007-May 2009_  
 **Matheson Trucking, Inc.** _(Elk Grove, CA)_  
 
 + Provided An Exponential Smoothing Forecast Model
 
-**Forecasting Model**  
-_September 2006_  
-**Forecasting Classes**  
-_January 2005 - January 2006_  
+**Forecasting Model** _September 2006_  
+**Forecasting Classes** _January 2005 - January 2006_  
 **SMUD** _(Sacramento, CA)_  
 
-**Forecasting Analysis**  
-_Mar. 2004-June 2004_  
+**Forecasting Analysis** _Mar. 2004-June 2004_  
 **Lindt & Sprüngli** _(Stratham, NH)_  
 
 + Improved demand planning and product scheduling
@@ -205,15 +191,13 @@ _Mar. 2004-June 2004_
 ###Staubach Logistics Practice Group 
 _(Cleveland, OH)_  
 
-**Inventory Analysis**  
-_February 2002 - April 2002_  
+**Inventory Analysis** _February 2002 - April 2002_  
 **Famous Supply Inc.** _(Akron, OH)_  
 
 + Assign distribution points to thousands of SKUs to improve service
 
 
-**Distribution Network Analysis**  
-_April 2001 - June 2002_  
+**Distribution Network Analysis** _April 2001 - June 2002_  
 **Optimal warehouse location with NETWORK©**  
 
 + L D Kichler Co., Cleveland, OH
@@ -222,23 +206,20 @@ _April 2001 - June 2002_
 
 ###Graduate Assistant and Summer Projects
 
-**Mapping of the outbound distribution system**  
-_Jan. 2001-May 2001_  
+**Mapping of the outbound distribution system** _Jan. 2001-May 2001_  
 **Parker Hannifin Corporation** _(Mentor, OH)_  
 
 + Interviewed group presidents and management personnel
 + Participated in the search for logistics benchmark data
 + Analyzed logistics costs and performance measure
 
-**Forecasting and Inventory Management Pilot Study**  
-_July 2000-Jan. 2000_  
+**Forecasting and Inventory Pilot Study** _July 2000-Jan. 2000_  
 **ATSCO - Air Tool Solutions Company** _(Mentor, OH)_  
 
 + Performed forecasts for 30 products
 + Provide recommendations for inventory levels
 
-**Long-term workforce-planning model**  
-_September 1998 - December 1999_  
+**Long-term workforce-planning model** _September 1998 - December 1999_  
 **ALCOA Forged Products** _(Cleveland, OH)_  
 
 + Developed a workforce planning model with Excel and Solver
@@ -249,8 +230,7 @@ _September 1998 - December 1999_
 ###Bureau of Business & Economic Research 
 _(Morgantown, WV)_
 
-**1996 and 1997 West Virginia County Data Profiles (CDPs)**  
-_July 1996 - December 1997_  
+**West Virginia County Data Profiles (CDPs)** _July 1996 - December 1997_  
 
 + Developed Lotus 1-2-3 macros to
 + Processed data for 65 CDPs
@@ -259,13 +239,11 @@ _July 1996 - December 1997_
 + The macros reduced the turnaround time by 75%
 
 
-**Economic impact forecasting**  
-_June 1997 - August 1997_  
+**Economic impact forecasting** _June 1997 - August 1997_  
 
 + Developed applications for Lotus & Excel to forecast the economic impact of historical preservation construction projects and tourism on major industries in WV counties.
 
-**Economic study of the Potomac Highlands**  
-_June 1997 - August 1997_  
+**Economic study of the Potomac Highlands** _June 1997 - August 1997_  
 
 + Searched for economic and educational data on the Internet and on databases
 + Participated in writing the final report
