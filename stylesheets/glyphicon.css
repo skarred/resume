@@ -2,7 +2,7 @@
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
 ***********************************************************/
-@font-face{font-family:'fontello';src:url('http://karalli.net/font/fontello.eot');src:url('http://karalli.net/font/fontello.eot#iefix') format('embedded-opentype'),url('http://karalli.net/font/fontello.woff') format('woff'),url('http://karalli.net/font/fontello.ttf') format('truetype'),url('http://karalli.net/font/fontello.svg#fontello') format('svg');font-weight:normal;font-style:normal}[class^="icon-"]:before,[class*=" icon-"]:before{font-family:"fontello";font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em;}
+@font-face{font-family:'fontello';src:url('../font/fontello.eot');src:url('../font/fontello.eot#iefix') format('embedded-opentype'),url('../font/fontello.woff') format('woff'),url('../font/fontello.ttf') format('truetype'),url('../font/fontello.svg#fontello') format('svg');font-weight:normal;font-style:normal}[class^="icon-"]:before,[class*=" icon-"]:before{font-family:"fontello";font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em;}
 .icon-ajust:before{content:'\e8cd'}
 .icon-adjust:before{content:'\e8cd'}
 .icon-align-center:before{content:'\e95e'}
@@ -322,8 +322,8 @@ stackedit glyphicons https://github.com/benweet/stackedit
 .icon-yen:before{content:'\e8e8'}
 .icon-zoom-in:before{content:'\e875'}
 .icon-zoom-out:before{content:'\e876'}
-[class^="glyphicons-"],[class*=" glyphicons-"]{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("http://karalli.net/img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat}
-.glyphicons-provider-gdrive-realtime{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("http://karalli.net/img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat;width:18px;background-position:-1px -162px}
+[class^="glyphicons-"],[class*=" glyphicons-"]{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("../img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat}
+.glyphicons-provider-gdrive-realtime{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("../img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat;width:18px;background-position:-1px -162px}
 .glyphicons-stat{background-position:-1px -168px}
 .glyphicons-numbered-list{background-position:-408px -168px}
 .glyphicons-hr{background-position:-432px -168px}
@@ -476,8 +476,8 @@ stackedit glyphicons https://github.com/benweet/stackedit
 .icon-chart-bar{font-size:90%;padding-right:2px}
 .icon-trash{font-size:95%}
 .icon-folder{margin-top:-2px}
-[class^="icon-provider-"],[class*=" icon-provider-"]{background-image:url("http://karalli.net/img/icons.png");width:18px;height:16px;margin-top:-2px}
-@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){[class^="icon-provider-"],[class*=" icon-provider-"]{background-image:url("http://karalli.net/img/icons2x.png");background-size:256px 16px}}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){[class^="icon-provider-"],[class*=" icon-provider-"]{background-image:url("http://karalli.net/img/icons2x.png");background-size:256px 16px}}.icon-provider-stackedit{background-position:0 0}
+[class^="icon-provider-"],[class*=" icon-provider-"]{background-image:url("../img/icons.png");width:18px;height:16px;margin-top:-2px}
+@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){[class^="icon-provider-"],[class*=" icon-provider-"]{background-image:url("../img/icons2x.png");background-size:256px 16px}}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){[class^="icon-provider-"],[class*=" icon-provider-"]{background-image:url("../img/icons2x.png");background-size:256px 16px}}.icon-provider-stackedit{background-position:0 0}
 .icon-provider-gdrive{background-position:-18px 0}
 .icon-provider-gdrive.realtime{background-position:-162px 0}
 .icon-provider-dropbox{background-position:-37px 0}
@@ -487,7 +487,7 @@ stackedit glyphicons https://github.com/benweet/stackedit
 .icon-provider-wordpress{background-position:-108px 0}
 .icon-provider-ssh{background-position:-126px 0}
 .icon-provider-gplus{background-position:-144px 0}
-@font-face{font-family:'fontello';src:url('http://karalli.net/font/fontello.eot');src:url('http://karalli.net/font/fontello.eot#iefix') format('embedded-opentype'),url('http://karalli.net/font/fontello.woff') format('woff'),url('http://karalli.net/font/fontello.ttf') format('truetype'),url('http://karalli.net/font/fontello.svg#fontello') format('svg');font-weight:normal;font-style:normal}
+@font-face{font-family:'fontello';src:url('../font/fontello.eot');src:url('../font/fontello.eot#iefix') format('embedded-opentype'),url('../font/fontello.woff') format('woff'),url('../font/fontello.ttf') format('truetype'),url('../font/fontello.svg#fontello') format('svg');font-weight:normal;font-style:normal}
 i[class^="icon-"]:before,i[class*=" icon-"]:before{font-family:"fontello";font-style:normal;font-weight:normal;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em;}
 i.icon-ajust:before{content:'\e8cd'}
 i.icon-adjust:before{content:'\e8cd'}
@@ -808,8 +808,8 @@ i.icon-wrench:before{content:'\e864'}
 i.icon-yen:before{content:'\e8e8'}
 i.icon-zoom-in:before{content:'\e875'}
 i.icon-zoom-out:before{content:'\e876'}
-[class^="glyphicons-"],[class*=" glyphicons-"]{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("http://karalli.net/img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat}
-i.glyphicons-provider-gdrive-realtime{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("http://karalli.net/img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat;width:18px;background-position:-1px -162px}
+[class^="glyphicons-"],[class*=" glyphicons-"]{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("../img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat}
+i.glyphicons-provider-gdrive-realtime{display:inline-block;width:14px;height:14px;margin-top:1px;*margin-right:.3em;line-height:14px;vertical-align:text-top;background-image:url("../img/glyphicons-halflings.png");background-position:14px 14px;background-repeat:no-repeat;width:18px;background-position:-1px -162px}
 i.glyphicons-stat{background-position:-1px -168px}
 i.glyphicons-numbered-list{background-position:-408px -168px}
 i.glyphicons-hr{background-position:-432px -168px}
@@ -962,8 +962,8 @@ i.icon-folder-open{font-size:80%;padding-right:5px}
 i.icon-chart-bar{font-size:90%;padding-right:2px}
 i.icon-trash{font-size:95%}
 i.icon-folder{margin-top:-2px}
-i[class^="icon-provider-"],i[class*=" icon-provider-"]{background-image:url("http://karalli.net/img/icons.png");width:18px;height:16px;margin-top:-2px}
-@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){i[class^="icon-provider-"],i[class*=" icon-provider-"]{background-image:url("http://karalli.net/img/icons2x.png");background-size:256px 16px}}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){i[class^="icon-provider-"],i[class*=" icon-provider-"]{background-image:url("http://karalli.net/img/icons2x.png");background-size:256px 16px}}i.icon-provider-stackedit{background-position:0 0}
+i[class^="icon-provider-"],i[class*=" icon-provider-"]{background-image:url("../img/icons.png");width:18px;height:16px;margin-top:-2px}
+@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){i[class^="icon-provider-"],i[class*=" icon-provider-"]{background-image:url("../img/icons2x.png");background-size:256px 16px}}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){i[class^="icon-provider-"],i[class*=" icon-provider-"]{background-image:url("../img/icons2x.png");background-size:256px 16px}}i.icon-provider-stackedit{background-position:0 0}
 i.icon-provider-gdrive{background-position:-18px 0}
 i.icon-provider-gdrive.realtime{background-position:-162px 0}
 i.icon-provider-dropbox{background-position:-37px 0}
