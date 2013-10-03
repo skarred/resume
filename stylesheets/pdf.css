@@ -56,7 +56,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#373737;
-  background: #212121;
+/*  background: #212121;*/
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -203,7 +203,8 @@ ul, ol, dl {
 
 ul li {
   list-style: inside;
-  padding-left: 20px;
+  padding-left: 30px;
+  text-indent: -15px;
 }
 
 ol li {
@@ -270,18 +271,18 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
-  padding: 20px 10px;
+  max-width: 700px;
+  padding: 0 10px;
   margin: 0 auto;
 }
 
 #forkme_banner {
-  display: block;
+  display: none;
   position: absolute;
   top:0;
   right: 10px;
   z-index: 10;
-  padding: 10px 50px 10px 10px;
+  padding: 0px 50px 0px 10px;
   color: #fff;
   background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
@@ -300,7 +301,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 10px 10px 0px 10px;
 }
 
 #project_title {
@@ -315,13 +316,15 @@ Full-Width Styles
   color: #fff;
   font-family: serif;
   font-size: 20px;
+  line-height:30px;
   font-weight: 300;
   font-style: italic;
   background: none;
-  text-shadow: #111 0px 0px 10px;
+  padding: 5px auto;
 }
 
 #downloads {
+  display: none;
   position: absolute;
   width: 210px;
   z-index: 10;
@@ -332,6 +335,7 @@ Full-Width Styles
 }
 
 .zip_download_link {
+  display: none;
   display: block;
   float: right;
   width: 90px;
@@ -342,6 +346,7 @@ Full-Width Styles
 }
 
 .tar_download_link {
+  display: none;
   display: block;
   float: right;
   width: 90px;
@@ -353,10 +358,12 @@ Full-Width Styles
 }
 
 .zip_download_link:hover {
+  display: none;
   background: url(../images/sprite_download.png) no-repeat top left;
 }
 
 .tar_download_link:hover {
+  display: none;
   background: url(../images/sprite_download.png) no-repeat top right;
 }
 
@@ -367,68 +374,58 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 10px;
+}
+#main_content h2 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+  font-size: 32px;
+  line-height:48px;
+  background: none;
 }
 
+#main_content h3 {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  padding-top: 10px;
+  margin-top: 10px;
+  background: none;
+  font-size: 24px;
+  line-height:36px;
+}
+
+#main_content h2 + h3 {
+  padding-top: 0px;
+  margin-top: 0px;
+  background: none;
+  font-size: 24px;
+  line-height:36px;
+}
+#main_content p{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  margin-top: 5px;
+}
+#main_content h3 + p{
+  padding-top: 0px;
+  margin-top: 0px;
+/*  padding-top: 5px;*/
+/*  margin-top: 5px;*/
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+#main_content p:first-child{
+  width:70%;
+}
 #footer_wrap {
   background: #212121;
 }
 
 
+@page { margin: 50pt 30pt 40pt 30pt }
 
-/*******************************************************************************
-Small Device Styles
-*******************************************************************************/
-
-@media screen and (max-width: 480px) {
-  body {
-    font-size:14px;
-  }
-
-  #downloads {
-    display: none;
-  }
-
-  .inner {
-    min-width: 320px;
-    max-width: 480px;
-  }
-
-  #project_title {
-  font-size: 32px;
-  }
-
-  h1 {
-    font-size: 28px;
-  }
-
-  h2 {
-    font-size: 24px;
-  }
-
-  h3 {
-    font-size: 21px;
-  }
-
-  h4 {
-    font-size: 18px;
-  }
-
-  h5 {
-    font-size: 14px;
-  }
-
-  h6 {
-    font-size: 12px;
-  }
-
-  code, pre {
-    min-width: 320px;
-    max-width: 480px;
-    font-size: 11px;
-  }
-
-}
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
 ***********************************************************/
