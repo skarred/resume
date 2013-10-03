@@ -3,7 +3,7 @@ Serge M. Karalli, Ph.D.
 ***
 
 <i class="icon-home"></i> 8127 Kinsbridge Drive, Sacramento, CA 95826  
-<i class="icon-mobile"></i> M (916) 549-5526 **&middot;** <i class="icon-phone"></i> H (916) 689-1177 **&middot;** <i class="icon-mail-alt"></i>  [serge@karalli.net](mailto:serge@karalli.net) **&middot;** <i class="icon-globe"></i> [www.karalli.net](http://www.karalli.net)  
+<i class="icon-mobile"></i> M (916) 549-5526 <i class="icon-phone"></i> H (916) 689-1177 <i class="icon-mail-alt"></i>  [serge@karalli.net](mailto:serge@karalli.net) <i class="icon-globe"></i> [www.karalli.net](http://www.karalli.net)  
 ***
 
 ##Education
