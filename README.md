@@ -2,7 +2,7 @@ Serge M. Karalli, Ph.D.
 *"Example isn’t another way to teach, it is the only way to teach." - Albert Einstein*  
 ***
 
-<i class="icon-home"></i> 8127 Kingsbridge Drive, Sacramento, CA 95826  
+<i class="icon-home" title="permanent address"></i> 8127 Kinsgbridge Drive, Sacramento, CA 95826  
 <i class="icon-mobile" title="mobile phone"></i> (916) 549-5526 <i class="icon-phone" title="home phone"></i> (916) 689-1177 <i class="icon-mail-alt" title="email"></i>  [serge@karalli.net](mailto:serge@karalli.net) <i class="icon-globe" title="website"></i> [www.karalli.net](http://www.karalli.net)  
 ***
 
@@ -239,28 +239,29 @@ _Concentration in Operations Management_
 + Participated in writing the final report
 
 ##Computer Skills
-###Languages
-+ C++
-+ HTML
-+ JavaScript
-+ PHP
-+ Python
-+ VBA
-
-###Packages
-+ iMeet
-+ MediaWiki
-+ MoinMoin
-+ WebCT
-+ WordPress
-
-###Tools
-+ Camtasia
-+ L<sup>A</sup>T<sub>E</sub>X
-+ Mathematica
-+ MSOffice
-+ OCTAVE
-+ OpenOffice.org
+<table>
+  <tr>
+    <th>Languages</th><th>Packages</th><th>Tools</th>
+  </tr>
+  <tr>
+    <td>C++</td><td>iMeet</td><td>Camtasia</td>
+  </tr>
+  <tr>
+    <td>HTML</td><td>MediaWiki</td><td>L<sup>A</sup>T<sub>E</sub>X</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td><td>MoinMoin</td><td>Mathematica</td>
+  </tr>
+  <tr>
+    <td>PHP</td><td>WebCT</td><td>MSOffice</td>
+  </tr>
+  <tr>
+    <td>Python</td><td>WordPress</td><td>OCTAVE</td>
+  </tr>
+  <tr>
+    <td>VBA</td><td> </td><td>OpenOffice.org</td>
+  </tr>
+</table>
 
 ###References
 **A Dale Flowers, D.B.A.**  
