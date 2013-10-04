@@ -67,7 +67,7 @@ More css for GitHub Pages
   padding: 5px 10px;
   border: 1px solid #373737;
  }
-#main_content ol,#main_content  ul {
+ol, ul {
   list-style: none;
   padding-left: 30px;
   text-indent: -15px;
