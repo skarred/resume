@@ -1,4 +1,3 @@
-
 /*******************************************************************************
 Slate Theme for GitHub Pages
 by Jason Costello, @jsncostello
@@ -101,7 +100,9 @@ h6 {
 p {
   margin: 10px 0 15px 0;
 }
-
+p > em{
+  floet:right;
+}
 footer p {
   color: #f2f2f2;
 }
