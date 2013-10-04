@@ -72,7 +72,19 @@ More css for GitHub Pages
   padding-left: 30px;
   text-indent: -15px;
 }
+a[href$=".pdf"] {
 
+    text-align: right;
+    background: none repeat scroll 0% 0% rgb(102, 102, 102);
+    color: white;
+    padding: 3px 6px 3px 12px;
+    margin-bottom: 6px;
+    text-decoration: none;
+    line-height: 1;
+    position:absolute;
+    top: 0;
+
+}
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
 ***********************************************************/
