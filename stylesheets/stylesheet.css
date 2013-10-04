@@ -328,10 +328,8 @@ Full-Width Styles
 
 #project_tagline {
   color: #fff;
-  font-family: serif;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 300;
-  font-style: italic;
   background: none;
   text-shadow: #111 0px 0px 10px;
   padding-bottom: 10px;
@@ -468,6 +466,7 @@ Small Device Styles
   }
 
 }
+<<<<<<< HEAD
 
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
@@ -1452,3 +1451,5 @@ i.icon-provider-wordpress{background-position:-108px 0}
 i.icon-provider-ssh{background-position:-126px 0}
 i.icon-provider-gplus{background-position:-144px 0}
 
+=======
+>>>>>>> 2d282295579cadc2db086a30c8c2521137c33a3d
