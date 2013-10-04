@@ -288,7 +288,7 @@ Los Angeles, CA 90023
 (310) 602-9316  
 
 
-[Download PDF]:  https://github.com/skarred/resume/raw/gh-pages/smk-cv.pdf "smk-cv.pdf"
+[Download PDF]:  smk-cv.pdf "smk-cv.pdf"
 [karalli.net]:  http://karalli.net "The Karalli Pages"
 [The Electronic Beer Game]: http://responsive.net/games.html
 [Littlefield Technologies]: http://responsive.net/games.html
