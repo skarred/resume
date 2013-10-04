@@ -19,16 +19,13 @@ _Concentration in Operations Management_
 **[Norwich University]** _(Northfield, VT)_  
 
 ##Teaching Experience
-**Assistant Professor of Operations Management**  
-_September 2004 - May 2112_  
+**Assistant Professor of Operations Management** _September 2004 - May 2112_  
 **[California State University, Sacramento]**  _(Sacramento, CA)_  
 
-**Visiting Assistant Professor of Operations Management**  
-_September 2003 - May 2004_  
+**Visiting Assistant Professor of Operations Management** _September 2003 - May 2004_  
 **[DePaul University]** _(Chicago, IL)_  
 
-**Graduate Assistant**  
-_September 2000 - May 2003_   
+**Graduate Assistant** _September 2000 - May 2003_   
 **[Case Western Reserve University]** _(Cleveland, OH)_   
 
 ##Teaching Interests
