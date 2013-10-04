@@ -3,9 +3,8 @@ Serge M. Karalli, Ph.D.
 ***
 
 <i class="icon-home"></i> 8127 Kinsbridge Drive, Sacramento, CA 95826  
-<i class="icon-mobile"></i> M (916) 549-5526 **&middot;** <i class="icon-phone"></i> H (916) 689-1177 **&middot;** <i class="icon-mail-alt"></i>  [serge@karalli.net](mailto:serge@karalli.net) **&middot;** <i class="icon-globe"></i> [www.karalli.net](http://www.karalli.net)  
+<i class="icon-mobile" title="mobile phone"></i> (916) 549-5526 <i class="icon-phone" title="home phone"></i> (916) 689-1177 <i class="icon-mail-alt" title="email"></i>  [serge@karalli.net](mailto:serge@karalli.net) <i class="icon-globe" title="website"></i> [www.karalli.net](http://www.karalli.net)  
 ***
-
 
 ##Education
 **Ph.D. Operations Research**, _January 2005_  
@@ -51,11 +50,9 @@ _September 2000 - May 2003_
 
 ##Teaching Practice
 ###[California State University, Sacramento]
-**Teaching Ratings**  
-4.5/5.0 - 4.9/5.0  
+**Teaching Ratings:** _4.5/5.0 - 4.9/5.0_  
 
-**On-Line Course**  
-_September 2008 - May 2112_  
+**On-Line Course** _September 2008 - May 2112_  
 
 + Undergraduate Operations Management core course
 + Manage course with WebCT ©
@@ -106,8 +103,7 @@ _January 2005 - May 2008_
 + Teaching Ratings: 4.5/5.0 - 4.9/5.0
 
 ###[Case Western Reserve University]
-**Undergraduate Core Course in Operations Management**  
-_September 2000 - May 2003_  
+**Undergraduate Core Course** _September 2000 - May 2003_  
 
 + Responsible for course design, preparation, and instruction
 + Typical class composition:
