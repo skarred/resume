@@ -50,11 +50,9 @@ _September 2000 - May 2003_
 
 ##Teaching Practice
 ###[California State University, Sacramento]
-**Teaching Ratings**  
-4.5/5.0 - 4.9/5.0  
+**Teaching Ratings:** _4.5/5.0 - 4.9/5.0_  
 
-**On-Line Course**  
-_September 2008 - May 2112_  
+**On-Line Course** _September 2008 - May 2112_  
 
 + Undergraduate Operations Management core course
 + Manage course with WebCT ©
@@ -105,8 +103,7 @@ _January 2005 - May 2008_
 + Teaching Ratings: 4.5/5.0 - 4.9/5.0
 
 ###[Case Western Reserve University]
-**Undergraduate Core Course in Operations Management**  
-_September 2000 - May 2003_  
+**Undergraduate Core Course** _September 2000 - May 2003_  
 
 + Responsible for course design, preparation, and instruction
 + Typical class composition:
