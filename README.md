@@ -263,7 +263,7 @@ _Concentration in Operations Management_
   </tr>
 </table>
 
-##References  3
+##References  
 **A Dale Flowers, D.B.A.**  
 *Associate Professor, Operations*  
 Department of Operations  
