@@ -2,7 +2,6 @@ Serge M. Karalli, Ph.D.
 *"Example isn’t another way to teach, it is the only way to teach." - Albert Einstein*  
 [Download PDF]  
 ***
-  
 
 <i class="icon-home" title="permanent address"></i> 8127 Kinsgbridge Drive, Sacramento, CA 95826  
 <i class="icon-mobile" title="mobile phone"></i> (916) 549-5526 <i class="icon-phone" title="home phone"></i> (916) 689-1177 <i class="icon-mail-alt" title="email"></i>  [serge@karalli.net](mailto:serge@karalli.net) <i class="icon-globe" title="website"></i> [www.karalli.net](http://www.karalli.net)  
@@ -304,4 +303,5 @@ Los Angeles, CA 90023
 [Littlefield Technologies]: http://responsive.net/games.html
 [The Startup Game]: http://responsive.net/games.html
 [The Supply Chain Game]: http://responsive.net/games.html
+
 
