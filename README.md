@@ -73,8 +73,7 @@ _Concentration in Operations Management_
 + [The Startup Game]
 + [The Supply Chain Game]
 
-**International Collegiate Business Simulation Competition**  
-_Jan. 2005 - May 2008_  
+**International Collegiate Business Simulation Competition** _Jan. 2005 - May 2008_  
 
 + Undergraduate Team Adviser  
 + Compete with teams from universities worldwide
@@ -117,8 +116,7 @@ _Jan. 2005 - May 2008_
 + Solow, D., _How to Read and do Proofs: an introduction to mathematical thought process_, (3 ed.). New York, NY: John Wiley & Sons, 2002
 + Assisted in the revision and development of proof techniques exercises
 
-**Graduate Operations Research Course Development**  
-_Aug. 1999 - Aug. 2000_  
+**Graduate Operations Research Course Development** _Aug. 1999 - Aug. 2000_  
 
 + Developed a traveling salesman problem application in MS Access using VBA, SQL, & C++
 
@@ -182,8 +180,7 @@ _Aug. 1999 - Aug. 2000_
 + Reduced inventory and write-offs
 
 
-###Staubach Logistics Practice Group 
-_(Cleveland, OH)_  
+###Staubach Logistics Practice Group _(Cleveland, OH)_  
 
 **Inventory Analysis** _Feb. 2002 - Apr. 2002_  
 **Famous Supply Inc.** _(Akron, OH)_  
@@ -221,8 +218,7 @@ _(Cleveland, OH)_
 + Developed VBA modules to automate data collection and transfer
 + Wrote the users manual for the short-term model
 
-###Bureau of Business & Economic Research 
-_(Morgantown, WV)_
+###Bureau of Business & Economic Research _(Morgantown, WV)_
 
 **West Virginia County Data Profiles (CDPs)** _July 1996 - Dec. 1997_  
 
