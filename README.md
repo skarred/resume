@@ -263,14 +263,14 @@ _Concentration in Operations Management_
   </tr>
 </table>
 
-###References
+##References  3
 **A Dale Flowers, D.B.A.**  
 *Associate Professor, Operations*  
 Department of Operations  
 Weatherhead School of Management  
 Case Western Reserve University  
 Cleveland, OH 44106  
-dale.flowers@case.edu  
+[dale.flowers@case.edu](mailto:dale.flowers@case.edu)  
 (216) 368-3825  
 
 **Richard Guarino, Ph.D.**  
@@ -286,8 +286,6 @@ Davis, CA 95616
 Preferred Meal Systems, Inc.  
 Los Angeles, CA 90023  
 (310) 602-9316  
-
-
 
 
 
