@@ -239,28 +239,29 @@ _Concentration in Operations Management_
 + Participated in writing the final report
 
 ##Computer Skills
-###Languages
-+ C++
-+ HTML
-+ JavaScript
-+ PHP
-+ Python
-+ VBA
-
-###Packages
-+ iMeet
-+ MediaWiki
-+ MoinMoin
-+ WebCT
-+ WordPress
-
-###Tools
-+ Camtasia
-+ L<sup>A</sup>T<sub>E</sub>X
-+ Mathematica
-+ MSOffice
-+ OCTAVE
-+ OpenOffice.org
+<table>
+  <tr>
+    <th>Languages</th><th>Packages</th><th>Tools</th>
+  </tr>
+  <tr>
+    <td>C++</td><td>iMeet</td><td>Camtasia</td>
+  </tr>
+  <tr>
+    <td>HTML</td><td>MediaWiki</td><td>L<sup>A</sup>T<sub>E</sub>X</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td><td>MoinMoin</td><td>Mathematica</td>
+  </tr>
+  <tr>
+    <td>PHP</td><td>WebCT</td><td>MSOffice</td>
+  </tr>
+  <tr>
+    <td>Python</td><td>WordPress</td><td>OCTAVE</td>
+  </tr>
+  <tr>
+    <td>VBA</td><td> </td><td>OpenOffice.org</td>
+  </tr>
+</table>
 
 ###References
 **A Dale Flowers, D.B.A.**  
