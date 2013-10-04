@@ -53,12 +53,24 @@ More css for GitHub Pages
   font-size: 16px;
   float: right; 
   font-weight: normal;
+  color: #373737;
 }
 #main_content ol, ul {
   list-style: none;
   padding-left: 30px;
   text-indent: -15px;
 }
+#main_content table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width:75%;
+}
+
+#main_content td {
+  padding: 5px 10px;
+  border: 1px solid #373737;
+ }
+
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
 ***********************************************************/
