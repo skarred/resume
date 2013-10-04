@@ -4,6 +4,15 @@ More css for GitHub Pages
 p > strong+em {
   float: right; 
 }
+#project_tagline {
+  color: #fff;
+  font-family: serif;
+  font-size: 20px;
+  font-weight: 300;
+  font-style: italic;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
 
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
