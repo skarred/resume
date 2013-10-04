@@ -77,12 +77,21 @@ h1 {
 
 h2 {
   padding-bottom: 10px;
+  padding-top: 15px;
+  margin-bottom: 0px;
   font-size: 32px;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
 
 h3 {
   font-size: 24px;
+}
+
+h3 > em{
+  font-size: 16px;
+  float: right; 
+  font-weight: normal;
+  color: #373737;
 }
 
 h4 {
@@ -100,7 +109,9 @@ h6 {
 p {
   margin: 10px 0 15px 0;
 }
-
+p > strong+em {
+  float: right; 
+}
 footer p {
   color: #f2f2f2;
 }
@@ -166,8 +177,6 @@ pre, code {
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
-
-
 
 }
 
@@ -242,6 +251,7 @@ th {
   padding: 10px;
   background: #373737;
   color: #fff;
+  text-align:left;
  }
 
 td {
@@ -274,6 +284,12 @@ Full-Width Styles
   margin: 0 auto;
 }
 
+#main_content p{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  margin-top: 5px;
+}
 #forkme_banner {
   display: block;
   position: absolute;
@@ -318,6 +334,9 @@ Full-Width Styles
   font-style: italic;
   background: none;
   text-shadow: #111 0px 0px 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
 }
 
 #downloads {
@@ -368,12 +387,33 @@ Full-Width Styles
 #main_content {
   padding-top: 40px;
 }
+#main_content h3 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  margin-top: 10px;
+  background: none;
+  font-size: 24px;
+  line-height:36px;
+}
+#main_content h3 + p{
+  padding-top: 5px;
+  margin-top: 5px;
+}
+#main_content p:first-child{
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
 
 #footer_wrap {
   background: #212121;
 }
 
 
+#main_content h2 + h3 {
+  padding-top: 0px;
+  margin-top: 0px;
+}
 
 /*******************************************************************************
 Small Device Styles
@@ -428,7 +468,7 @@ Small Device Styles
   }
 
 }
-<<<<<<< HEAD
+
 /************************************************************
 stackedit glyphicons https://github.com/benweet/stackedit 
 ***********************************************************/
@@ -611,6 +651,12 @@ stackedit glyphicons https://github.com/benweet/stackedit
 .icon-magnet:before{content:'\e8d6'}
 .icon-mail-alt:before{content:'\e805'}
 .icon-mail:before{content:'\e804'}
+#main_content p{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+  margin-top: 5px;
+}
 .icon-male:before{content:'\e80e'}
 .icon-medkit:before{content:'\e8ff'}
 .icon-megaphone:before{content:'\e967'}
@@ -1405,7 +1451,4 @@ i.icon-provider-tumblr{background-position:-90px 0}
 i.icon-provider-wordpress{background-position:-108px 0}
 i.icon-provider-ssh{background-position:-126px 0}
 i.icon-provider-gplus{background-position:-144px 0}
-<<<<<<< HEAD
 
-=======
->>>>>>> ad255927e4486b2959d4064080642981a15cc350
