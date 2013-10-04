@@ -1,6 +1,8 @@
 Serge M. Karalli, Ph.D.  
 *"Example isn’t another way to teach, it is the only way to teach." - Albert Einstein*  
+[Download PDF]  
 ***
+  
 
 <i class="icon-home" title="permanent address"></i> 8127 Kinsgbridge Drive, Sacramento, CA 95826  
 <i class="icon-mobile" title="mobile phone"></i> (916) 549-5526 <i class="icon-phone" title="home phone"></i> (916) 689-1177 <i class="icon-mail-alt" title="email"></i>  [serge@karalli.net](mailto:serge@karalli.net) <i class="icon-globe" title="website"></i> [www.karalli.net](http://www.karalli.net)  
@@ -43,7 +45,6 @@ _Concentration in Operations Management_
 + The family periodic loading problem
 + Generalized Lot Allocation
 + Goal-Based Scenario (GBS) research
-+ Effective student preparation for GBS exercises
 
 ##Teaching Practice
 ###[California State University, Sacramento]
@@ -288,7 +289,7 @@ Los Angeles, CA 90023
 (310) 602-9316  
 
 
-
+[Download PDF]:  smk-cv.pdf "smk-cv.pdf"
 [karalli.net]:  http://karalli.net "The Karalli Pages"
 [The Electronic Beer Game]: http://responsive.net/games.html
 [Littlefield Technologies]: http://responsive.net/games.html
