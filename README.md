@@ -1,5 +1,5 @@
 Serge M. Karalli, Ph.D.  
-*"Example isn’t another way to teach, it is the only way to teach." -&nbsp;Albert Einstein*  
+*"Example isn’t another way to teach, it is the only way to teach." -&nbsp;Albert&nbsp;Einstein*  
 [Download PDF]  
 ***
 
