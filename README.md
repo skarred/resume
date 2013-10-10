@@ -7,8 +7,6 @@ Serge M. Karalli, Ph.D.
 <i class="icon-mobile" title="mobile phone"></i> (916) 549-5526 <i class="icon-phone" title="home phone"></i> (916) 689-1177 <i class="icon-mail-alt" title="email"></i>  [serge@karalli.net](mailto:serge@karalli.net) <i class="icon-globe" title="website"></i> [www.karalli.net](http://www.karalli.net)  
 ***
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
 ##Education
 **Ph.D. Operations Research** _Jan. 2005_  
 **[Case Western Reserve University]** _(Cleveland, OH)_  
