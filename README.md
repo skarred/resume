@@ -304,3 +304,30 @@ Los Angeles, CA 90023
 [The Startup Game]: http://responsive.net/games.html
 [The Supply Chain Game]: http://responsive.net/games.html
 
+<nav>
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Education](#education)
+- [Teaching Experience](#teaching-experience)
+- [Teaching Interests](#teaching-interests)
+- [Research Interests](#research-interests)
+- [Teaching Practice](#teaching-practice)
+	- [California State University, Sacramento](#california-state-university-sacramento)
+	- [DePaul University](#depaul-university)
+	- [Case Western Reserve University](#case-western-reserve-university)
+- [Research](#research)
+	- [Reviewer](#reviewer)
+	- [Publications](#publications)
+	- [Articles Under Review](#articles-under-review)
+	- [Working Papers](#working-papers)
+	- [Technical Reports](#technical-reports)
+	- [Presentations](#presentations)
+	- [Ph.D. Thesis](#phd-thesis)
+- [Professional Practice](#professional-practice)
+	- [Projects](#projects)
+	- [Staubach Logistics Practice Group (Cleveland, OH)](#staubach-logistics-practice-group-cleveland-oh)
+	- [Graduate Assistant and Summer Projects](#graduate-assistant-and-summer-projects)
+	- [Bureau of Business & Economic Research (Morgantown, WV)](#bureau-of-business--economic-research-morgantown-wv)
+- [Computer Skills](#computer-skills)
+- [References](#references)
+</nav>
