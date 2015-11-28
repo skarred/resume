@@ -1,6 +1,5 @@
 Serge M. Karalli, Ph.D.  
 *"Example isn’t another way to teach, it is the only way to teach." -&nbsp;Albert Einstein*  
-[Download PDF]  
 ***
 
 <i class="icon-home" title="permanent address"></i> 8127 Kinsgbridge Drive, Sacramento, CA 95826  
