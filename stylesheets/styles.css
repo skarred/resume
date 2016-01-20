@@ -184,6 +184,14 @@ footer {
 	bottom: 50px;
 }
 
+footer p {
+  margin:0 0 10px;
+  line-height:18px;
+}
+
+footer p a{
+  line-height:11px;
+}
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
