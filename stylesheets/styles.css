@@ -40,10 +40,10 @@ a {
 }
 
 a small {
-  font-size:11px;
-  color:#777;
-  margin-top:-0.6em;
-  display:block;
+	font-size: 11px;
+	color: #777;
+	margin-top: -0.6em;
+	display: inline-block;
 }
 
 .wrapper {
