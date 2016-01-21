@@ -132,11 +132,9 @@ _Concentration in Operations Management_
 + S. M. Karalli, "Coordinating Shipments from Multiple Supplier location in a Capacitated Staging Environment," _California Journal of Operations Management_, vol. 9(1), pp. 104-118, 2011
 + S. M. Karalli and A. D. Flowers, "The Multiple-Family ELSP with Safety Stocks," _Operations Research_, vol. 54(3), pp. 523-531, 2006.
 
-###Articles Under Review
+###Working Papers
 + S. M. Karalli and A. D. Flowers, "The Family Periodic Loading Problem," _European Journal of Operational Research_, 2011
 + S. M. Karalli and A. D. Flowers, "The Multiple-Family ELSP with Fill Rates," _Submitted to Operational Research Letters_, 2011
-
-###Working Papers
 + S. M. Karalli and A. D. Flowers, "Scheduling the Multi-Family JRP with a Periodic Loading Algorithm," CSU, Sacramento and Case Western Reserve University, Working Paper , 2010.
 
 ###Technical Reports
