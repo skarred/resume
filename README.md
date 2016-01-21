@@ -225,9 +225,9 @@ _Concentration in Operations Management_
 ##Computer Skills
 <table>
 <tr>
-<th>Languages</th>
-<th>Packages</th>
-<th>Tools</th>
+<td><strong><big>Languages</strong></td>
+<td><strong><big>Packages</strong></td>
+<td><strong><big>Tools</strong></td>
   </tr>
 <tr>
 <td>C++</td>
