@@ -7,6 +7,9 @@ Serge M. Karalli, Ph.D.
 ***
 
 ##Education
+**Lean Six Sigma Black Belt - Healthcare**  _Nov. 2015_  
+**[Villanova University]**  _(Online)_  
+
 **Ph.D. Operations Research** _Jan. 2005_  
 **[Case Western Reserve University]** _(Cleveland, OH)_  
 _Concentration in Operations Management_
@@ -28,7 +31,7 @@ _Concentration in Operations Management_
 **Graduate Assistant** _Sept. 2000 - May 2003_   
 **[Case Western Reserve University]** _(Cleveland, OH)_   
 
-##Teaching Interests
+<!-- ##Teaching Interests
 + Core Courses in Operations Management
 + Supply Chain Management
 + Production Planning and Inventory Control
@@ -42,7 +45,7 @@ _Concentration in Operations Management_
 + Extensions of the MFELSP-SS to the JRP
 + The family periodic loading problem
 + Generalized Lot Allocation
-+ Goal-Based Scenario (GBS) research
++ Goal-Based Scenario (GBS) research -->
 
 ##Teaching Practice
 ###[California State University, Sacramento]
@@ -293,6 +296,7 @@ Los Angeles, CA 90023
 [Littlefield Technologies]: http://responsive.net/games.html
 [The Startup Game]: http://responsive.net/games.html
 [The Supply Chain Game]: http://responsive.net/games.html
+[Villanova University]: http://www.villanovau.com/
 [Case Western Reserve University]: http://www.weatherhead.case.edu/  "Weatherhead School of Management"
 [Franciscan University]: http://www.franciscan.edu/  "Franciscan University"
 [Norwich University]: http://www.norwich.edu/ "Norwich University"
