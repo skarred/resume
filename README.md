@@ -31,22 +31,6 @@ _Concentration in Operations Management_
 **Graduate Assistant** _Sept. 2000 - May 2003_   
 **[Case Western Reserve University]** _(Cleveland, OH)_   
 
-<!-- ##Teaching Interests
-+ Core Courses in Operations Management
-+ Supply Chain Management
-+ Production Planning and Inventory Control
-+ Goal-Based Scenario/Game Based Learning
-+ Quantitative Methods
-+ Combinatorial Optimization
-+ Graph Theory/Networks
-
-##Research Interests
-+ The MFELSP-SS
-+ Extensions of the MFELSP-SS to the JRP
-+ The family periodic loading problem
-+ Generalized Lot Allocation
-+ Goal-Based Scenario (GBS) research -->
-
 ##Teaching Practice
 ###[California State University, Sacramento]
 **Teaching Ratings:** _4.5/5.0 - 4.9/5.0_  
@@ -309,14 +293,14 @@ Los Angeles, CA 90023
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Education](#education)
-- [Teaching Experience](#teaching-experience) <!-- - [Teaching Interests](#teaching-interests) - [Research Interests](#research-interests) -->
+- [Teaching Experience](#teaching-experience)  
 - [Teaching Practice](#teaching-practice)
 	- [California State University, Sacramento](#california-state-university-sacramento)
 	- [DePaul University](#depaul-university)
 	- [Case Western Reserve University](#case-western-reserve-university)
 - [Research](#research)
 	- [Reviewer](#reviewer)
-	- [Publications](#publications) <!-- - [Articles Under Review](#articles-under-review) -->
+	- [Publications](#publications) 
 	- [Working Papers](#working-papers)
 	- [Technical Reports](#technical-reports)
 	- [Presentations](#presentations)
