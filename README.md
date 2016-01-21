@@ -224,26 +224,50 @@ _Concentration in Operations Management_
 
 ##Computer Skills
 <table>
-  <tr>
-    <th>Languages</th><th>Packages</th><th>Tools</th>
+<tr>
+<th>Languages</th>
+<th>Packages</th>
+<th>Tools</th>
   </tr>
-  <tr>
-    <td>C--</td><td>iMeet</td><td>Camtasia</td>
+<tr>
+<td>C++</td>
+<td>iMeet</td>
+<td>Camtasia</td>
   </tr>
-  <tr>
-    <td>HTML</td><td>MediaWiki</td><td>L<sup>A</sup>T<sub>E</sub>X</td>
+<tr>
+<td>HTML</td>
+<td>MediaWiki</td>
+<td>L<sup>A</sup>T<sub>E</sub>X</td>
   </tr>
-  <tr>
-    <td>JavaScript</td><td>MoinMoin</td><td>Mathematica</td>
+<tr>
+<td>JavaScript</td>
+<td>MoinMoin</td>
+<td>Mathematica</td>
   </tr>
-  <tr>
-    <td>PHP</td><td>WebCT</td><td>MSOffice</td>
+<tr>
+<td>Objective C</td>
+<td>WebCT</td>
+<td>MSOffice</td>
   </tr>
-  <tr>
-    <td>Python</td><td>WordPress</td><td>OCTAVE</td>
+<tr>
+<td>PHP</td>
+<td>WordPress</td>
+<td>OCTAVE</td>
   </tr>
-  <tr>
-    <td>VBA</td><td> </td><td>OpenOffice.org</td>
+<tr>
+<td>Python</td>
+<td>Xcode</td>
+<td>OpenOffice.org</td>
+  </tr>
+<tr>
+<td>Swift</td>
+<td> </td>
+<td></td>
+  </tr>
+<tr>
+<td>VBA</td>
+<td> </td>
+<td></td>
   </tr>
 </table>
 
