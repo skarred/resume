@@ -18,9 +18,9 @@ p, ul, ol, table, pre, dl {
 }
   p.quote{
     margin: 0 0 10px;
-	color:#888;
+	color:#777;
 	font-style:italic;
-	font-weight: 100;
+	font-weight: 300;
   }
    p.address{
     margin: 0 0 10px;
